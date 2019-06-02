@@ -1,0 +1,19 @@
+{
+  "name": "jq-carousel",
+  "version": "1.0.0",
+  "description": "使用方式可参考bootstrap插件的使用形式",
+  "main": "jq-carousel.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZNN-She/jq-carousel.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZNN-She/jq-carousel/issues"
+  },
+  "homepage": "https://github.com/ZNN-She/jq-carousel#readme"
+}
